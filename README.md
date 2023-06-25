@@ -1,5 +1,5 @@
 <h3>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <strong>Olá, mundo!</strong>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <strong>Hello world!</strong>
 </h3>
 
 <a href="https://github.com/MatiSilva01">
