@@ -1,11 +1,5 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** 
 
-<p>
-  <em>
-    Encontro-me no 3º ano da Licenciatura em Tecnologias da Informação na Faculdade de Ciências da Universidade de Lisboa.</a>
-  </em>  
-</p>
-
 
 <a href="https://github.com/MatiSilva01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&theme=dark&hide_langs_below=1" />
@@ -26,11 +20,16 @@
 
 
 <br>
+# Sobre mim
+<p>
+  <em>
+    Encontro-me no 3º ano da Licenciatura em Tecnologias da Informação na Faculdade de Ciências da Universidade de Lisboa.</a>
+  </em>  
+</p>
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# Contacta-me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:matildeferreirasilva@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 
