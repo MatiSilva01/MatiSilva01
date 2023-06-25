@@ -9,9 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&layout=compact&theme=dark" />
 </a>
 <br>
-<a href="https://github.com/MatiSilva01">
-  <img src="https://github-readme-stats.vercel.app/api/all-langs/?username=MatiSilva01&layout=compact&theme=dark" alt="Todas as Linguagens">
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuário&layout=compact)](https://github.com/seu_nome_de_usuário)
+
 
 <h3>
   <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> <strong>Sobre mim</strong>
