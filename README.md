@@ -9,9 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&layout=compact&theme=dark" />
 </a>
 <br>
-<a href="https://github.com/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&theme=dark" />
-</a>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatiSilva01)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>
   <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> <strong>Sobre mim</strong>
