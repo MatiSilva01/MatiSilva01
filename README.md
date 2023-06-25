@@ -6,9 +6,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MatiSilva01&show_icons=true&theme=dark&line_height=27" alt="Estatísticas do GitHub">
 </a>
 <a href="https://github.com/TheDudeThatCode">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&theme=dark&hide_langs_below=1" />
 </a>
 <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiSilva01"/>
+<a href="https://github.com/TheDudeThatCode">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&theme=dark&hide_langs_below=1" />
+</a>
 <h3>
   <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> <strong>Sobre mim</strong>
 </h3>
