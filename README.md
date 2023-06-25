@@ -5,12 +5,12 @@
 <a href="https://github.com/MatiSilva01">
   <img src="https://github-readme-stats.vercel.app/api?username=MatiSilva01&show_icons=true&theme=dark&line_height=27" alt="Estatísticas do GitHub">
 </a>
-<a href="https://github.com/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/MatiSilva01">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&theme=dark&hide_langs_below=1" />
 </a>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiSilva01"/>
-<a href="https://github.com/TheDudeThatCode">
+<a href="https://github.com/MatiSilva01">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&theme=dark&hide_langs_below=1" />
 </a>
 <h3>
