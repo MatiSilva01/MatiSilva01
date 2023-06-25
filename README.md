@@ -10,7 +10,7 @@
 </a>
 <br>
 <a href="https://github.com/MatiSilva01">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&layout=compact&theme=dark" alt="Todas as Linguagens">
+  <img src="https://github-readme-stats.vercel.app/api/all-langs/?username=MatiSilva01&layout=compact&theme=dark" alt="Todas as Linguagens">
 </a>
 
 <h3>
