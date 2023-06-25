@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    Encontro-me no 3º ano da Licenciatura em Tecnologias da Informação na Faculdade de Ciências da Universidade de Lisboa.</a>.  
+    Encontro-me no 3º ano da Licenciatura em Tecnologias da Informação na Faculdade de Ciências da Universidade de Lisboa.</a>
   </em>  
 </p>
 
@@ -29,16 +29,16 @@
 
 
 <a href="https://github.com/TheDudeThatCode/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=TheDudeThatCode&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiSilva01&repo=TheDudeThatCode&theme=dark" />
 </a>
 
 <a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiSilva01&repo=Fun-with-DS-and-Algo&theme=dark" />
 </a>
 
 <br>
 <!--
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=MatiSilva01&show_icons=true&hide_border=true)
 -->
 
 <br>
