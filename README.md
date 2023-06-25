@@ -17,9 +17,6 @@
 -->
 
 <br>
-
-
-<br>
 # Sobre mim
 <p>
   <em>
@@ -27,7 +24,7 @@
   </em>  
 </p>
 
-# Contacta-me! 📫⚡ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# Contacta-me! 📫⚡ 
 
  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:matildeferreirasilva@gmail.com)
 
