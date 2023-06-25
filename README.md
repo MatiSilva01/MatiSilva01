@@ -7,7 +7,7 @@
 [![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&layout=compact&theme=dark)](https://github.com/MatiSilva01)
 
 <br>
-## Sobre mim  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" />
+## Sobre mim 
 <p>
   <em>
     Encontro-me no 3º ano da Licenciatura em Tecnologias da Informação na Faculdade de Ciências da Universidade de Lisboa.
