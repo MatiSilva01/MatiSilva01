@@ -4,6 +4,8 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatiSilva01&show_icons=true&theme=dark&line_height=27)](https://github.com/MatiSilva01)
 
+[![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&layout=compact&theme=dark)](https://github.com/MatiSilva01)
+
 <br>
 
 ## Sobre mim
@@ -16,5 +18,3 @@
 # Contacta-me! 📫⚡ 
 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:matildeferreirasilva@gmail.com)
-
-
