@@ -1,19 +1,29 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** 
+<h3>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <strong>Olá, mundo!</strong>
+</h3>
 
+<a href="https://github.com/MatiSilva01">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiSilva01&show_icons=true&theme=dark&line_height=27" alt="Estatísticas do GitHub">
+</a>
 
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatiSilva01&show_icons=true&theme=dark&line_height=27)](https://github.com/MatiSilva01)
-
-[![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&layout=compact&theme=dark)](https://github.com/MatiSilva01)
+<a href="https://github.com/MatiSilva01">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&layout=compact&theme=dark" alt="Todas as Linguagens">
+</a>
 
 <br>
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Sobre mim **
+
+<h3>
+  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> <strong>Sobre mim</strong>
+</h3>
+
 <p>
   <em>
-    Encontro-me no 3º ano da Licenciatura em Tecnologias da Informação na Faculdade de Ciências da Universidade de Lisboa.
+    Sou estudante do 3º ano do curso de Licenciatura em Tecnologias da Informação na Faculdade de Ciências da Universidade de Lisboa.
   </em>  
 </p>
 
-# Contacta-me! 📫⚡ 
+<h2>Contacta-me! 📫⚡</h2>
 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:matildeferreirasilva@gmail.com)
+<a href="mailto:matildeferreirasilva@gmail.com">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Logotipo do Gmail" height="32">
+</a>
