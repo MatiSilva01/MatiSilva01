@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MatiSilva01&show_icons=true&theme=dark&line_height=27" alt="Estatísticas do GitHub">
 </a>
 <a href="https://github.com/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&theme=dark" />
 </a>
 <br>
 
