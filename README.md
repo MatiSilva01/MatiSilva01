@@ -9,8 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&layout=compact&theme=dark" />
 </a>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatiSilva01"/>](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatiSilva01"/>
 <h3>
   <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> <strong>Sobre mim</strong>
 </h3>
