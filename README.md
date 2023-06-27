@@ -5,7 +5,9 @@
 <a href="https://github.com/MatiSilva01">
   <img src="https://github-readme-stats.vercel.app/api?username=MatiSilva01&show_icons=true&theme=dark&line_height=27" alt="Estatísticas do GitHub">
 </a>
-[![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&layout=compact&theme=dark)](https://github.com/MatiSilva01)
+<a href="https://github.com/MatiSilva01">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&layout=compact&theme=dark" alt="Todas as Linguagens">
+</a>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiSilva01"/>
 <h3>
