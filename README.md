@@ -28,7 +28,7 @@
 
 <p>
   <em>
-    Sou estudante do 3º ano do curso de Licenciatura em Tecnologias da Informação na Faculdade de Ciências da Universidade de Lisboa.
+    Encontro-me no 3º ano de Licenciatura em Tecnologias da Informação na Faculdade de Ciências da Universidade de Lisboa.
   </em>  
 </p>
 
