@@ -11,6 +11,12 @@
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiSilva01"/>
 <h3>
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatiSilva01&show_icons=true&theme=dark&line_height=27)](https://github.com/MatiSilva01)
+
+[![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&layout=compact&theme=dark)](https://github.com/MatiSilva01)
+  
 <strong> 🛠️ A aprender</strong>
 </h3>
 
