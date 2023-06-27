@@ -10,9 +10,10 @@
 </a>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiSilva01"/>
-
 <h3>
-  <strong> 🛠️ A aprender</strong>
+
+  
+<strong> 🛠️ A aprender</strong>
 </h3>
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -36,17 +37,3 @@
 <a href="mailto:matildeferreirasilva@gmail.com">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Logotipo do Gmail" height="32">
 </a>
-
-<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-<script>
-  axios.get('https://api.github.com/users/MatiSilva01/contributions?per_page=1')
-    .then(function(response) {
-      const contributions = response.data[0].total;
-      const contributionsElement = document.createElement('p');
-      contributionsElement.innerHTML = '<strong>Contribuições no último ano:</strong> ' + contributions;
-      document.body.appendChild(contributionsElement);
-    })
-    .catch(function(error) {
-      console.log(error);
-    });
-</script>
