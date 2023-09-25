@@ -28,7 +28,7 @@
 
 <p>
   <em>
-    Encontro-me no 3º ano de Licenciatura em Tecnologias da Informação na Faculdade de Ciências da Universidade de Lisboa.
+    Encontro-me no 1º ano de Mestrado em Engenharia Informática, com Agrupamento Curricular de Especialização em Jogos e Ambientes Virtuais na Faculdade de Ciências da Univeridade de Lisboa. Previamente conclui a licenciatura em Tecnologias da Informação na mesma faculdade.
   </em>  
 </p>
 
