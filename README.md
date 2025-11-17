@@ -8,6 +8,8 @@
 <a href="https://github.com/MatiSilva01">
   <img src="https://github-readme-stats.vercel.app/api?username=MatiSilva01&show_icons=true&theme=dark&line_height=27" alt="Estatísticas do GitHub">
 </a>
+<img src="https://github-readme-stats.vercel.app/api?username=MatiSilva01&show_icons=true&theme=dark&line_height=27&include_all_commits=true" alt="Estatísticas do GitHub">
+
 <a href="https://github.com/MatiSilva01">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiSilva01&layout=compact&theme=dark" alt="Todas as Linguagens">
 </a>
