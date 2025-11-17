@@ -3,7 +3,6 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <strong>Hello world!</strong>
 </h3>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatiSilva01&layout=compact" />
 
 
 <a href="https://github.com/MatiSilva01">
