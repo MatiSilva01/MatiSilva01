@@ -46,10 +46,4 @@
 </p>
 <h2>Contacta-me! 📫⚡</h2>
 
-<a href="mailto:matildeferreirasilva@gmail.com" style="display:inline-block; margin-right:10px;">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" height="32" alt="Logotipo do Gmail">
-</a>
-
-<a href="https://www.linkedin.com/in/matilde-f-silva/" style="display:inline-block;">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" height="32" alt="Logotipo do LinkedIn">
-</a>
+<a href="mailto:matildeferreirasilva@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Logotipo do Gmail" height="32"></a><a href="https://www.linkedin.com/in/matilde-f-silva/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Logotipo do LinkedIn" height="32"></a>
