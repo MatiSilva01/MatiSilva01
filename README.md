@@ -41,7 +41,7 @@
 
 <p>
   <em>
-    Encontro-me no 1º ano de Mestrado em Engenharia Informática, com Agrupamento Curricular de Especialização em Jogos e Ambientes Virtuais na Faculdade de Ciências da Univeridade de Lisboa. Previamente conclui a licenciatura em Tecnologias da Informação na mesma faculdade.
+    Encontro-me no 1º ano de Mestrado em Engenharia Informática, com Agrupamento Curricular de Especialização em Jogos e Ambientes Virtuais na Faculdade de Ciências da Univeridade de Lisboa. 
   </em>  
 </p>
 
@@ -50,3 +50,8 @@
 <a href="mailto:matildeferreirasilva@gmail.com">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Logotipo do Gmail" height="32">
 </a>
+<a href="https://www.linkedin.com/in/matilde-f-silva/">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" 
+     alt="Logotipo do LinkedIn"  height="32">
+</a>
+
