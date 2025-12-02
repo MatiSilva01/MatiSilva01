@@ -3,7 +3,7 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <strong>Hello world!</strong>
 </h3>
 
-
+<!--
 
 <a href="https://github.com/MatiSilva01">
 <img src="https://github-readme-stats.vercel.app/api?username=MatiSilva01&show_icons=true&theme=dark&line_height=27&commits_year=2023" alt="Estatísticas do GitHub 2024">
@@ -16,7 +16,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiSilva01"/>
 <h3>
 
-  
+  -->
 <!--<strong> 🛠️ A aprender</strong>
 </h3>
 
@@ -45,7 +45,7 @@
 
 <p>
   <em>
-    Encontro-me no 1º ano de Mestrado em Engenharia Informática, com Agrupamento Curricular de Especialização em Jogos e Ambientes Virtuais na Faculdade de Ciências da Univeridade de Lisboa. 
+    Encontro-me no 2º ano de Mestrado em Engenharia Informática, com Agrupamento Curricular de Especialização em Jogos e Ambientes Virtuais na Faculdade de Ciências da Univeridade de Lisboa. 
   </em>  
 </p>
 <h2>Contacta-me! 📫⚡</h2>
